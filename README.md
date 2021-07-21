@@ -6,8 +6,8 @@
 Python,IBM Cloud,Node- RED,IBM IoT Platform,MIT App Inventor,IBM Cloudant DB
 
 ### Project Description:
-#### 
-Features:
+
+#### Features:
 
 1. There will a Mobile app for the public through which they can book tickets by seeing the available seats.
 2. After booking the person will get a QR code which has to be shown to the Ticket Collector at boarding. He scans the QR code to identify the personal details.
